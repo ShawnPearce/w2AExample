@@ -8,4 +8,4 @@ double c=5.5;
 int d=(int)c; //Explicit conversion
 Console.WriteLine($"a:{a} b:{b} c:{c} d:{d}");
 var e =5.5;
-//e="4"
+//e="4"dffdsfsdfds
